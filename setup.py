@@ -9,7 +9,7 @@ setup(
         "soundfile",
         "sounddevice",
         "kokoro",  # make sure this is the correct package name
-        "chatterbox-tts",  # add Chatterbox TTS support
+        "chatterbox-tts @ git+https://github.com/prathamesh-chavan-22/chatterbox",  # add Chatterbox TTS support
         "markdown",
         "beautifulsoup4",
         "numpy",
